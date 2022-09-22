@@ -1,0 +1,79 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: blanchedalmond;
+    margin-top: 1px;
+}
+.navbaro{
+    margin-top: 1em;
+    position: relative;
+    top: 1em;
+    height: 4em;
+    width: 45em;
+    background-color: white;
+    border-radius: .5em .5em 0 0;
+    border: none;
+    -webkit-box-shadow: 0 8px 6px -6px c2c2c2;
+    -moz-box-shadow: 0 8px 6px -6px c2c2c2;
+         box-shadow: 0 8px 6px -2px #c2c2c2;
+    color: rgb(230, 119, 119)
+  
+}
+.logoo{
+  position: relative;
+  left: 1em;
+  top: 1em;
+  display: flex;
+  gap: 0.5em;
+  font-size: 1.2em;
+  font-weight:600;
+}
+.photogrid{
+    position: relative;
+    top: 1.2em;
+    height: 20em;
+    width: 45em;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.adv{
+    border-radius: 1em ;
+    height: 18em;
+    width: 25em;
+}
+.phrase{
+    position: relative;
+    top: -3px;
+    height: 10em;
+    width: 45em;
+    background-color: white;
+}
+h1{
+    position: relative;
+    left: 1em;
+}
+h4{
+    position: relative;
+    top: -1em;
+    left: 2em;
+    max-width: 16em;
+    font-weight: 300;
+}
+.carousal{
+    position: relative;
+    top: -4.5em;
+    background-color: white;
+    height: 25em;
+    width: 45em;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 1em;
+    
+}

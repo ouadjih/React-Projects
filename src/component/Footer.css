@@ -1,0 +1,14 @@
+.footer{
+    background-color: rgb(69, 77, 85); 
+    height: 6rem; 
+   
+}
+.txt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 30px;
+    color: rgb(6, 175, 236);
+    
+}

@@ -1,0 +1,105 @@
+.project2{
+    display: flex;
+    align-items: center;
+    justify-content:  center;
+    gap: 5em;
+    
+}
+
+.cardi{
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+    height: 1020px;
+    width: 550px;
+    background-color: #23252C;
+    margin: 5em ;
+}
+.ticket{
+    width: 317px;
+    height: 910px;
+    background-color: #1A1B21;
+    margin: 3em 5em;
+    border-radius: 1em 1em 1em 1em;
+}
+.image{
+    position: relative;
+    width: 317px;
+    border-radius: 1em 1em 0 0;
+}
+.name{
+    position: relative;
+    left: 3.5em;
+    color: #ffff;
+    
+}
+.job{
+    position: relative;
+    left: 7.4em;
+    top: -1.8em;
+    color: #F3BF99;
+    font-weight: lighter;
+}
+.ws{
+    position: relative;
+    left: 10em;
+    top: -4em;
+    color: #F5F5F5;
+    font-weight: lighter;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: -3em;
+    gap: 1em;
+}
+.email{
+    border-radius: 6px;
+    background-color: #D1D5DB;
+    border: none;
+    padding: .7em 2.5em;
+    cursor: pointer;
+}
+.linkdin{
+    border-radius: 6px;
+    color: #ffff;
+    background-color: #5093E2;
+    border: none;
+    padding: .7em 2.5em;
+    cursor: pointer;
+}
+.about{
+    margin: 0 2em;
+    position: relative;
+    top: -3.5em;
+    color: #ffff;
+    font-size: 80%;
+}
+.interests{
+    margin: 0 2em;
+    position: relative;
+    top: -3.5em;
+    color: #ffff;
+    font-size: 80%;
+}
+p{
+    position: relative;
+    top: -1em;
+    font-weight: lighter;
+    font-size: small;
+}
+.social{
+    background-color:#161619;
+    padding: 0.6em;
+    border-radius:0 0 1em 1em ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: -1em;
+    gap: 0.6em;
+    font-size: 1.7em;
+    color: #918E9B;
+}

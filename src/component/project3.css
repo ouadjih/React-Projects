@@ -1,0 +1,44 @@
+
+.card{
+  position: relative;
+  top: 2em;
+  background-color: #fff;
+  width: 12em;
+  height: 18em;
+
+  display: flex;
+  flex-direction: column;
+  border-radius: 1em;
+}
+.bold{
+  font-weight: bold;
+}
+.prof {
+  height: 14em;
+  width: 12em;
+  border-radius: 1em;
+}
+.rating {
+  position: relative;
+  top: 0.5em;
+  display: flex;
+  font-size: 85%;
+  color: #a1a1a1;
+}
+.star {
+  position: relative;
+  top: 0.15em;
+  color: rgb(230, 119, 119);
+}
+.desc {
+  position: relative;
+  top: 0.4em;
+  color: #a1a1a1;
+  font-size: 90%;
+  width: 14em;
+}
+.price {
+  position: relative;
+  top: 0.4em;
+  font-size: 90%;
+}
